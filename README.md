@@ -240,7 +240,7 @@ target:
 
 ### ⚓ *"The Grand Line isn't conquered in a day — it's conquered one commit at a time."*
 
-<img src="./assets/pirate_ship.png" width="260"/>
+<img src="./assets/thousand_sunny.png" width="260"/>
 
 <br>
 
