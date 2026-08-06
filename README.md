@@ -15,7 +15,7 @@ Backend Engineer • Java • Spring Boot • AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=F7C948&center=true&vCenter=true&width=900&lines=🏴‍☠️+Grand+Line+Backend+Engineer;⚓+Building+Scalable+Backend+Systems;☕+Java+%7C+Spring+Boot+%7C+PostgreSQL;🤖+Learning+AI+%26+Machine+Learning;🚀+Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1800&color=F7C948&center=true&vCenter=true&width=850&lines=⚓+Backend+Engineer;🍳+Cooking+Scalable+Systems;🏴‍☠️+The+Journey+to+the+Grand+Line"/>
 </p>
 
 <p align="center">
