@@ -24,6 +24,16 @@
 
 </div>
 
+---
+
+# 🏆 `> pirate achievements`
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RajsProjects&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15"/>
+
+</p>
+
 <p align="center">
   <img src="./assets/profile.png" width="220" alt="Raj Mandal" />
 </p>
