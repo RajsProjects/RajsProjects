@@ -15,7 +15,7 @@ Backend Engineer • Java • Spring Boot • AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1800&color=F7C948&center=true&vCenter=true&width=850&lines=⚓+Backend+Engineer;🍳+Cooking+Scalable+Systems;🏴‍☠️+The+Journey+to+the+Grand+Line"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=F7C948&center=true&width=900&lines=%24+whoami+%E2%86%92+Raj+Mandal;%24+role+%E2%86%92+Backend+Engineer;%24+goal+%E2%86%92+Build+Products+That+Matter"/>
 </p>
 
 <p align="center">
