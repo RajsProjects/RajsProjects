@@ -31,6 +31,24 @@ Backend Engineer • Java • Spring Boot • AI Enthusiast
 
 </p>
 
+---
+
+# 📊 `> grand-line analytics`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RajsProjects&show_icons=true&theme=transparent&hide_border=true&title_color=F7C948&icon_color=F7C948&text_color=F8FAFC&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=RajsProjects&theme=transparent&hide_border=true&ring=F7C948&fire=F7C948&currStreakLabel=F7C948&currStreakNum=F8FAFC&sideNums=F8FAFC&sideLabels=F8FAFC&dates=8B949E"/>
+
+</div>
+
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajsProjects&layout=compact&theme=transparent&hide_border=true&title_color=F7C948&text_color=F8FAFC"/>
+
+</div>
+
 <div align="center">
 
 > *"Cooking scalable backend systems and sailing toward becoming a world-class Software Engineer."*
