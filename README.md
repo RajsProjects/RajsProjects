@@ -1,9 +1,5 @@
 # rajsprojects
 
-> Recruiter-friendly proof and contact path.
-
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
-
 ## Header
 > Editing this section in the inspector.
 Hi, I'm **rajsprojects**. This README is tuned for **get hired** with a GitHub visual system.
