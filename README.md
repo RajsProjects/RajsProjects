@@ -1,8 +1,7 @@
 # rajsprojects
 
 ## Header
-> Editing this section in the inspector.
-Hi, I'm **rajsprojects**. This README is tuned for **get hired** with a GitHub visual system.
+Hi, I'm **Suman**
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=rajsprojects&theme=github-dark&mode=light" />
