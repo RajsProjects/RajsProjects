@@ -4,11 +4,11 @@
   <img src="https://www.gitskins.com/api/section/hero?username=rajsprojects&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177343342%3Fu%3D9777262e0bd656620f1dd537acc75aa37ee0ba19%26v%3D4" alt="rajsprojects hero visual" />
 </p>
 
-**ADHD.Dev** · Frontend or full-stack engineer
+**ADHD.Dev** · Backend Developer
 
 ## Runtime notes
 
-<pre><code>ROLE        = Frontend or full-stack engineer
+<pre><code>ROLE        = Software Engineer
 LOCATION    = Haryana
 PUBLIC_REPOS = 14
 COMMUNITY   = 2 followers</code></pre>
@@ -31,7 +31,7 @@ Backend developer | Spring boot
 
 ## Reliable work
 
-- [society-management](https://github.com/RajsProjects/society-management) — HTML · 4 stars
+- [society-management](https://github.com/RajsProjects/society-management) — Java/Spring-boot · 4 stars
 - [leetcode_solutions](https://github.com/RajsProjects/leetcode_solutions) — Java · 2 stars
 - [Portfolio_website](https://github.com/RajsProjects/Portfolio_website) — HTML · 1 stars
 - [URLshortner](https://github.com/RajsProjects/URLshortner) — Java · 0 stars
