@@ -48,4 +48,4 @@ Backend developer | Spring boot
 
 <a href="https://github.com/rajsprojects">GitHub</a>
 
-<p align="center"><sub>ADHD.Dev · Backend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
